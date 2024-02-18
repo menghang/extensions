@@ -281,7 +281,7 @@ class Jinmantiantang : ParsedHttpSource(), ConfigurableSource {
             Pair("汉化", "/albums/doujin/sub/chinese?"),
             Pair("日语", "/albums/doujin/sub/japanese?"),
             Pair("汉化", "/albums/doujin/sub/chinese?"),
-            Pair("Cosplay", "/albums/doujin/sub/cosplay?"),
+            Pair("Cosplay", "/albums/another/sub/cosplay?"),
             Pair("CG图集", "/albums/doujin/sub/CG?"),
 
             Pair("P站", "/search/photos?search_query=PIXIV&"),
